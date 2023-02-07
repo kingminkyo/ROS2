@@ -10,6 +10,7 @@ setup.py
 ../../build/my_first_package/my_first_package.egg-info/zip-safe
 my_first_package/__init__.py
 my_first_package/my_first_node.py
+my_first_package/my_publisher.py
 my_first_package/my_subscriber.py
 resource/my_first_package
 test/test_copyright.py
